@@ -27,10 +27,3 @@ cursor: pointer;
     height: 75vh;
     width: 100%;
 }
-.gridsection{
-     background-color: red;
-    height: 75vh;
-    width: 100%;
-    background-size: cover;
-    background-position: center;
-}
