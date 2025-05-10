@@ -1,0 +1,36 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section_2 li:hover{
+text-decoration: underline;
+cursor: pointer;
+}
+.herosection{
+    background-image: url("./assets/Images/hero.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 75vh;
+    width: 100%;
+}
+.middle{
+    background-image: url("./assets/Images/hero2.png");
+    background-size: cover;
+    background-position: center;
+    height: 75vh;
+    width: 100%;
+}
+.watchsection{
+     background-image: url("./assets/Images/hero4.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 75vh;
+    width: 100%;
+}
+.gridsection{
+     background-color: red;
+    height: 75vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
